@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **sagarbhadrawle@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1-3wNlqyR--Le6nesvun0dCswNNiFI-6I/view?usp=sharing](https://drive.google.com/file/d/1-3wNlqyR--Le6nesvun0dCswNNiFI-6I/view?usp=sharing)
+- 📄 Know about my experiences [Sagar Bhadrawle (Resume)](https://drive.google.com/file/d/1-3wNlqyR--Le6nesvun0dCswNNiFI-6I/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
