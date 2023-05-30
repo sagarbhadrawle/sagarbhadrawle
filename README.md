@@ -1,9 +1,9 @@
-![logo](https://camo.githubusercontent.com/7b0d7056cf528da8971844af6dab6d746144ac7ef9b77af605ab7e3d3bc8a458/68747470733a2f2f6c6f6769636d6f6a6f2e636f6d2f6173736574732f646973742f6e65775f70616765732f696d616765732f6a732d6769662e676966)
+![logo](https://camo.githubusercontent.com/0f144a3b2e5e04736eb363e1d292e19063c7e196e2886bf3786d64e8f46e0289/68747470733a2f2f7777772e64777369742e636f6d2f75706c6f61642f6261636b656e642d646576656c6f706d656e742d313538343631363137332e6a7067)
 <h1 align="center">Hi 👋, I'm Sagar Bhadrawle</h1>
 
-<h3 align="center">A passionate Backend developer</h3>
+<h3 align="center">Motivated Java Back-End Developer with hands-on experience in Spring-Boot, Hibernate, Java, and SQL.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sagarbhadrawle&label=Profile%20views&color=0e75b6&style=flat" alt="sagarbhadrawle" /> </p>
+<p align="center"> <img src="https://img.etimg.com/thumb/msid-84146056,width-400,height-400,imgsize-6380,resizemode-8/20210706_developer-economy_01.jpg" alt="sagarbhadrawle" /> </p>
 
 - 🔭 I worked on a individual project [American Eagle Clone - Ecommerce website(cloned)](https://github.com/sagarbhadrawle/enormous-library-3081)
 
