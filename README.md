@@ -13,7 +13,7 @@
 
 - 🔭 My first java project [Batch Monitoring Java Mini Project](Batch Monitoring Java Mini Project)
 
-- 👨‍💻 All of my projects are available at [https://sagarbhadrawle.github.io](https://github.com/sagarbhadrawle/sagarbhadrawle.github.io/)
+- 👨‍💻 All of my projects are available at [https://sagarbhadrawle.github.io](https://sagarbhadrawle.github.io/)
 
 - 💬 Ask me about **HTML, CSS, JS, Java etc.**
 
