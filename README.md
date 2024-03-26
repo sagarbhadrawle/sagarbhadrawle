@@ -1,4 +1,4 @@
-![logo](https://camo.githubusercontent.com/0f144a3b2e5e04736eb363e1d292e19063c7e196e2886bf3786d64e8f46e0289/68747470733a2f2f7777772e64777369742e636f6d2f75706c6f61642f6261636b656e642d646576656c6f706d656e742d313538343631363137332e6a7067)
+
 <h1 align="center">Hi 👋, I'm Sagar Bhadrawle</h1>
 
 <h3 align="center">Motivated Java Back-End Developer with hands-on experience in Spring-Boot, Hibernate, Java, and SQL.</h3>
